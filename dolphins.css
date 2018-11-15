@@ -1,8 +1,12 @@
 
 
 .jumbotron {
-  background-image: url('Kings.jpg');
+  background-image: url('cambridge-backs-1.jpg');
+    min-height: 200px;
+  background-position: 100% 10%;
   background-size: cover;
-  background-attachment: fixed;
-  min-height: 600px;
+}
+
+.display-3 {
+  color: white;
 }
