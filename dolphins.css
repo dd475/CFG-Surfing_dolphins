@@ -1,14 +1,21 @@
 
 
-.jumbotron {
+#coverpage {
   background-image: url('cambridge-backs-1.jpg');
-  height: 300px;
-  background-position: 100% 25%;
+  /* height: 400px; */
+  /*background-position: 100% 25%; */
   background-size: cover;
+
+}
+
+#Escape {
+  padding-bottom: 500px;
 }
 
 .display-3 {
   color: white;
+  font-size: 40pt;
+  padding-bottom: 30px;
 }
 
 .navbar li {
@@ -18,4 +25,5 @@
 .navbar a {
   font-size: 20pt;
   color: black;
+  background-color: grey;
 }
