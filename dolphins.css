@@ -1,0 +1,29 @@
+
+
+#coverpage {
+  background-image: url('cambridge-backs-1.jpg');
+  /* height: 400px; */
+  /*background-position: 100% 25%; */
+  background-size: cover;
+
+}
+
+#Escape {
+  padding-bottom: 35%;
+}
+
+.display-3 {
+  color: white;
+  font-size: 40pt;
+  padding-bottom: 30px;
+}
+
+.navbar li {
+  padding-right:50px;
+}
+
+.navbar a {
+  font-size: 20pt;
+  color: black;
+  background-color: grey;
+}
