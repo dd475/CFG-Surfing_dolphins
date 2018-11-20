@@ -10,3 +10,12 @@
 .display-3 {
   color: white;
 }
+
+.navbar li {
+  padding-right:50px;
+}
+
+.navbar a {
+  font-size: 20pt;
+  color: black;
+}
