@@ -19,6 +19,7 @@
   padding-bottom: 30px;
 }
 
+
 .navbar li {
   padding-right:50px;
 }
@@ -40,7 +41,8 @@
   padding-left: 20px
 }
 .title {
-  background-image: url("biketop.jpg");}
+  background-image: url("biketop.jpg");
+padding-top: 50px;}
 
 #bike_title{
   color: white;
