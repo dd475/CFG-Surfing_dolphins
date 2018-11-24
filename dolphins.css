@@ -1,6 +1,7 @@
 
 
 #coverpage {
+  margin-top: 55px;
   background-image: url('cambridge-backs-1.jpg');
   /* height: 400px; */
   /*background-position: 100% 25%; */
@@ -9,7 +10,7 @@
 }
 
 #Escape {
-  padding-bottom: 35%;
+  padding-bottom: 30%;
 }
 
 .display-3 {
@@ -27,3 +28,20 @@
   color: black;
   background-color: grey;
 }
+
+.media-object {
+  height: 200px;
+  width: relative;
+  margin-left: 40px;
+}
+.location-content {
+  background-color: #E5E4E2;
+  padding-top: 40px;
+  padding-left: 20px
+}
+.title {
+  background-image: url("biketop.jpg");}
+
+#bike_title{
+  color: white;
+padding: 30px}
