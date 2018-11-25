@@ -74,7 +74,9 @@
 }
 
 #Escape {
+
     padding-bottom: 30%;
+
 }
 
 
@@ -83,6 +85,7 @@
   font-size: 40pt;
   padding-bottom: 30px;
 }
+
 
 /*
 .navbar li {
@@ -111,6 +114,7 @@
 }
 
 
+
 #bike_title{
   color: white;
 padding: 40px;
@@ -120,3 +124,4 @@ font-family: monospace;
 
 }
 */
+
