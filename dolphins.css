@@ -1,6 +1,7 @@
 
 
 #coverpage {
+  margin-top: 55px;
   background-image: url('cambridge-backs-1.jpg');
   /* height: 400px; */
   /*background-position: 100% 25%; */
@@ -9,7 +10,7 @@
 }
 
 #Escape {
-  padding-bottom: 35%;
+  padding-bottom: 30%;
 }
 
 .display-3 {
@@ -18,12 +19,37 @@
   padding-bottom: 30px;
 }
 
+
 .navbar li {
   padding-right:50px;
 }
 
 .navbar a {
   font-size: 20pt;
-  color: black;
+  background-color: white;
+  font-family: monospace;
+}
+
+.media-object {
+  height: 200px;
+  width: relative;
+  margin-left: 40px;
+}
+.location-content {
+  background-color: #E5E4E2;
+  padding-top: 40px;
+  padding-left: 20px
+}
+.title {
+  background-image: url("biketop.jpg");
   background-color: grey;
+}
+
+#bike_title{
+  color: white;
+padding: 40px;
+position: right;
+font-size: 30px;
+font-family: monospace;
+
 }
